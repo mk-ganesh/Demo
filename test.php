@@ -6,4 +6,6 @@ if ($test == 1) {
 } else {
 	echo "not 1";
 }
+
+echo "new branch";
 ?>
